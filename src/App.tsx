@@ -915,7 +915,7 @@ function App() {
                 </div>
               </div>
             ) : (
-              <div className="min-w-[640px] rounded-2xl border border-slate-800 bg-slate-950/70 p-2">
+              <div className="rounded-2xl border border-slate-800 bg-slate-950/70 p-2">
                 <div
                   className="grid gap-2"
                   style={{
